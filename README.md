@@ -1,7 +1,7 @@
 # Hi there, I'm Hakimo Abdikadir 👋  
 
 🚀 **Software Developer | WordPress | Web Designer  Enthusiast**  
-a developer who blends customer insight with technical creativity.
+A developer who blends customer insight with technical creativity.
 I started my career helping people solve real problems face-to-face 
 and now I build software that does the same through code..  
 
@@ -11,7 +11,7 @@ and now I build software that does the same through code..
 - 🎓 Degree in **Computer Information Systems** from Kenya Methodist University.  
 - 💻 Experienced in **Frontend & Backend Development**.  
 - 🌍 Based in **Nairobi, Kenya**.  
-- ✨ Interested in building websites, booking systems, and automation tools.  
+- ✨ Interested in building websites, web apps, softaware systems and automation tools.  
 - 🌱 Currently improving my **React.js, Django, and API development** skills.  
 
 ---
