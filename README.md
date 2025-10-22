@@ -1,7 +1,9 @@
 # Hi there, I'm Hakimo Abdikadir 👋  
 
-🚀 **Software Developer | Web Designer | WordPress & Graphic Design Enthusiast**  
-Passionate about creating responsive, user-friendly, and impactful digital solutions.  
+🚀 **Software Developer | WordPress | Web Designer  Enthusiast**  
+a developer who blends customer insight with technical creativity.
+I started my career helping people solve real problems face-to-face 
+and now I build software that does the same through code..  
 
 ---
 
