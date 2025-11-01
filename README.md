@@ -59,5 +59,7 @@ and now I build software that does the same through code..
   <img src="https://github-readme-stats.vercel.app/api?username=hakimoabdikadir&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimoabdikadir&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>  
+
 ---
+
 ✨ _"Code with creativity, design with purpose."_ ✨
