@@ -60,3 +60,4 @@ and now I build software that does the same through code..
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimoabdikadir&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>  
 ---
+✨ _"Code with creativity, design with purpose."_ ✨
