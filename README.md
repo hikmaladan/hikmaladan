@@ -44,8 +44,8 @@ and now I build software that does the same through code..
 ## 📌 Featured Projects  
 - 🌐 [Charity Website](https://medg2025.org/) – WordPress-based responsive donation platform.  
 - 🚌 [Bus Booking System](https://bus-booking-rm8o.onrender.com) – Full-stack booking solution with Django & JavaScript.  
-- 🔎 [Web Scraper Tool](https://daily-habits-tracker-production.up.railway.app) – A sleek and intuitive web app designed to help users build better habits and stay consistent.Built with Node.js, Express, JavaScript, CSS, EJS, Passport, Mongodb and Mongoose.
--  🌐 [Portfolio Site](hakimo-abdikadir-abdinoor.netlify.app) – A modern and responsive personal portfolio built to showcase my skills, projects, and experience as a Web Developer and Designer. 
+- 🔎 [Habit tracker](https://daily-habits-tracker-production.up.railway.app) – A sleek and intuitive web app designed to help users build better habits and stay consistent.Built with Node.js, Express, JavaScript, CSS, EJS, Passport, Mongodb and Mongoose.
+-  🌐 [Portfolio Site](hakimo-abdikadir-abdinoor.netlify.app) – A modern and responsive personal portfolio built to showcase my skills, projects, and experience as a Web Developer and Designer.
 
 ---
 
