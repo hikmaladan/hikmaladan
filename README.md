@@ -55,24 +55,4 @@ and now I build software that does the same through code..
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hakimoabdikadir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Hakimo's GitHub Stats" 
-    height="180" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimoabdikadir&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    height="180" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=hakimoabdikadir&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak Stats" 
-    height="180" 
-  />
-</p>
-
+update this too <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hakimoabdikadir&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimoabdikadir&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/> </p>
